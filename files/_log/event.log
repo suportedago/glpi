@@ -1,0 +1,10 @@
+2016-06-17 20:16:47 [2@PC-CHARLAN]
+[login] 3: glpi fez login no IP ::1
+2016-06-17 20:36:36 [@PC-CHARLAN]
+[login] 1: Login falhou para glpipost-only no IP ::1
+2016-06-17 20:36:53 [3@PC-CHARLAN]
+[login] 3: post-only fez login no IP ::1
+2016-06-17 20:43:43 [4@PC-CHARLAN]
+[login] 3: tech fez login no IP ::1
+2016-06-17 20:54:07 [@PC-CHARLAN]
+[login] 3: glpi fez login no IP ::1

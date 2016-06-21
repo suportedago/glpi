@@ -1,0 +1,18 @@
+2016-06-17 20:16:40 [@PC-CHARLAN]
+Interno #1: Executar createinquest
+2016-06-17 20:30:58 [2@PC-CHARLAN]
+Interno #1: Executar watcher
+2016-06-17 20:36:17 [2@PC-CHARLAN]
+Interno #1: Executar ticketrecurrent
+2016-06-17 20:36:30 [@PC-CHARLAN]
+Interno #1: Executar planningrecall
+2016-06-17 20:36:40 [@PC-CHARLAN]
+Interno #1: Executar queuedmail
+2016-06-17 20:42:16 [3@PC-CHARLAN]
+Interno #1: Executar queuedmailclean
+2016-06-17 20:43:39 [@PC-CHARLAN]
+Interno #1: Executar temp
+2016-06-17 20:49:06 [4@PC-CHARLAN]
+Interno #1: Executar mailgateerror
+2016-06-17 20:54:04 [@PC-CHARLAN]
+Interno #1: Executar contract
